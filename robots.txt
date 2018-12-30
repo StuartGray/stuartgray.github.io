@@ -1,0 +1,4 @@
+Sitemap: https://www.stuartgray.com/sitemapindex.xml
+
+User-Agent: *
+Host: www.stuartgray.com
